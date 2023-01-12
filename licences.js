@@ -1,4 +1,6 @@
 
+
+
 window.matrixPlans = [
     {
         value: "inforiver-plan.premium-viewer",
@@ -40,3 +42,26 @@ window.matrixPlans = [
         value: "inforiver-plan.enterprise-reportserver",
         label: "Enterprise Report Server"
     }];
+
+
+window.chartPlans = [{
+    value: "inforiver-plan.viewer",
+    label: "Viewer Only"
+}];
+
+
+
+window.projects = [{
+    value: 'inforiverMatrix',
+    label: 'Inforiver Matrix'
+},
+{
+    value: 'inforiverCharts',
+    label: 'Inforiver Charts'
+}];
+
+
+window.projectPlans = {
+    inforiverMatrix: window.matrixPlans,
+    inforiverCharts: window.chartPlans
+}
