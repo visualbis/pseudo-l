@@ -15,10 +15,6 @@ window.matrixPlans = [
         label: "Premium Embedded"
     },
     {
-        value: "xviz.inforiver-premium.premium-reportserver",
-        label: "Premium Report Server"
-    },
-    {
         value: "xviz.inforiver-premium.private",
         label: "Premium Private Plan"
     },
@@ -37,10 +33,6 @@ window.matrixPlans = [
     {
         value: "xviz.inforiver-enterprise.enterprise-embedded",
         label: "Enterprise Embedded"
-    },
-    {
-        value: "xviz.inforiver-enterprise.enterprise-reportserver",
-        label: "Enterprise Report Server"
     }];
 
 
@@ -67,10 +59,6 @@ window.chartPlans = [
     {
         value: "xviz.inforiver-charts.charts-embedded",
         label: "Embedded Plan",
-    },
-    {
-        value: "xviz.inforiver-charts.charts-report-server",
-        label: "Report Server Plan",
     }
 ];
  
