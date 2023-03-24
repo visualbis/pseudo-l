@@ -3,36 +3,32 @@
 
 window.matrixPlans = [
     {
-        value: "inforiver-plan.premium",
-        label: "Premium Developer"
+        value: "xviz.inforiver-premium.tier1-premium",
+        label: "Premium Matrix 1(1 tp 19 users)"
+    },
+        {
+        value: "xviz.inforiver-premium.tier3-premium",
+        label: "Premium Matrix 3(100 to 999 users)"
+    },
+        {
+        value: "xviz.inforiver-premium.tier4-premium",
+        label: "Premium Matrix 4(1000 to 1999 users)"
     },
     {
-        value: "inforiver-plan.premium-xxviewer",
-        label: "Premium Unlimited Viewer and Developer"
-    },
-    {
-        value: "xviz.inforiver-premium.premium-embedded",
-        label: "Premium Embedded"
+        value: "xviz.inforiver-premium.premium-xxviewer",
+        label: "Premium Developer - Unlimited Viewers"
     },
     {
         value: "xviz.inforiver-premium.private",
         label: "Premium Private Plan"
     },
     {
-        value: "inforiver-plan.enterprise-viewer",
-        label: "Enterprise Viewer Only"
-    },
-    {
         value: "xviz.inforiver-enterprise.tier2-enterprise",
-        label: "Enterprise Developer"
+        label: "Enterprise Matrix SAAS Edition"
     },
     {
         value: "xviz.inforiver-enterprise.enterprise-xxviewer",
-        label: "Enterprise Unlimited Viewer and Developer"
-    },
-    {
-        value: "xviz.inforiver-enterprise.enterprise-embedded",
-        label: "Enterprise Embedded"
+        label: "Enterprise Matrix Developer - Unlimited Viewers"
     }];
 
 
