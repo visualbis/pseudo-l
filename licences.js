@@ -61,41 +61,10 @@ window.chartPlans = [
 ];
 
 window.xvizPlans = [
+  { value: "xviz.multiple-axes-chart-1", label: "xViz Per User" },
   {
-    value: "xviz.multiple-axes-chart-0",
-    label: "$0 private plan",
-  },
-  {
-    value: "xviz.multiple-axes-chart-1",
-    label: "Per user plan, with a trial",
-  },
-  {
-    value: "xviz.multiple-axes-chart-2",
-    label: "Per user plan 99",
-  },
-  {
-    value: "xviz.multiple-axes-chart-3",
-    label: "Per user plan 999",
-  },
-  {
-    value: "xviz.multiple-axes-chart-4",
-    label: "Per user plan 9999",
-  },
-  {
-    value: "xviz.multiple-axes-chart-5",
-    label: "Per user plan 99999",
-  },
-  {
-    value: "xviz.multiple-axes-chart-6",
-    label: "Per user plan Min 99999",
-  },
-  {
-    value: "xviz.multiple-axes-chart-embedded",
-    label: "$0 Embedded",
-  },
-  {
-    value: "xviz.multiple-axes-chart-report-server",
-    label: "$0 Report Server",
+    value: "xviz.multiple-axes-chart-perdeveloper-xxviewer",
+    label: "xViz Per Developer and Unlimited Viewers",
   },
 ];
 
