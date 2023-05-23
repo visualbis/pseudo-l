@@ -12,6 +12,10 @@ window.matrixPlans = [
     label: "Premium Matrix 4(1000 to 1999 users)",
   },
   {
+    value: "xviz.inforiver-premium.premium-passive-viewer",
+    label: "Premium Developer - Passive Viewers",
+  },
+  {
     value: "xviz.inforiver-premium.premium-xxviewer",
     label: "Premium Developer - Unlimited Viewers",
   },
@@ -22,6 +26,10 @@ window.matrixPlans = [
   {
     value: "xviz.inforiver-enterprise.tier2-enterprise",
     label: "Enterprise Matrix SAAS Edition",
+  },
+  {
+    value: "xviz.inforiver-enterprise.enterprise-passive-viewer",
+    label: "Enterprise Matrix Developer - Passive Viewers",
   },
   {
     value: "xviz.inforiver-enterprise.enterprise-xxviewer",
