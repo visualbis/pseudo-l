@@ -20,21 +20,13 @@ window.matrixPlans = [
     label: "Premium Developer - Unlimited Viewers",
   },
   {
-    value: "xviz.inforiver-premium.private",
-    label: "Premium Private Plan",
-  },
-  {
     value: "xviz.inforiver-enterprise.tier2-enterprise",
     label: "Enterprise Matrix SAAS Edition",
   },
   {
     value: "xviz.inforiver-enterprise.enterprise-passive-viewer",
     label: "Enterprise Matrix Developer - Passive Viewers",
-  },
-  {
-    value: "xviz.inforiver-enterprise.enterprise-xxviewer",
-    label: "Enterprise Matrix Developer - Unlimited Viewers",
-  },
+  }
 ];
 
 window.chartPlans = [
