@@ -26,13 +26,17 @@ window.matrixPlans = [
   {
     value: "xviz.inforiver-enterprise.enterprise-passive-viewer",
     label: "Enterprise Matrix Developer - Passive Viewers",
-  }
+  },
 ];
 
 window.chartPlans = [
   {
     value: "xviz.inforiver-charts.charts-xxviewer",
     label: "Unlimited Viewer and Developer",
+  },
+  {
+    value: "xviz.inforiver-charts.charts-passive-viewer",
+    label: "Charts Developer - Passive Viewers",
   },
   {
     value: "xviz.inforiver-charts.inforiver-smb",
