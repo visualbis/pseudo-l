@@ -35,6 +35,10 @@ window.chartPlans = [
     label: "Unlimited Viewer and Developer",
   },
   {
+    value:"xviz.inforiver-charts.charts-passive-read-editor",
+    label: "Passive Read Editor",
+  },
+  {
     value: "xviz.inforiver-charts.charts-passive-viewer",
     label: "Charts Developer - Passive Viewers",
   },
@@ -70,6 +74,10 @@ window.xvizPlans = [
     value: "xviz.multiple-axes-chart-perdeveloper-xxviewer",
     label: "xViz Per Developer and Unlimited Viewers",
   },
+  {
+    value: "xviz-unlimited-ganttchart-1",
+    label: "xViz Gantt Large",
+  }
 ];
 
 window.projects = [
