@@ -35,6 +35,10 @@ window.chartPlans = [
     label: "Unlimited Viewer and Developer",
   },
   {
+    value:"xviz.inforiver-charts.charts-passive-read-editor",
+    label: "Passive Read Editor",
+  },
+  {
     value: "xviz.inforiver-charts.charts-passive-viewer",
     label: "Charts Developer - Passive Viewers",
   },
