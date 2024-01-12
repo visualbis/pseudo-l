@@ -70,6 +70,10 @@ window.xvizPlans = [
     value: "xviz.multiple-axes-chart-perdeveloper-xxviewer",
     label: "xViz Per Developer and Unlimited Viewers",
   },
+  {
+    value: "xviz-unlimited-ganttchart-1",
+    label: "xViz Gantt Large",
+  }
 ];
 
 window.projects = [
