@@ -10,6 +10,9 @@
     - Datainput single select and multiselect: fetch options from semantic model
     - Default value for text data input type
     - Data Input - Single & Multi Select UI Enhancements
+    - Allocation Refactor - Data Input
+    - Data input to update the data based on source data refresh - To be handled in Export
+
 - **Comment**
     - Filtercontext for comments and Writeback
 - **Schedule**
@@ -25,8 +28,6 @@
 - **Visual**
     - Export PDF include comments (cell level) similar to notes
     - Scenario-Close button is added to the scenario tool bar
-    - Forecast Toolbar -Insert forecast option to be added
-    - Data input to update the data based on source data refresh - To be handled in Export
 - **Forecast**
     - Forecast Toolbar
     - Distribution by Time Period in Column
@@ -40,8 +41,7 @@
     - Auto close - closing period at tenant level
     - Forecast_Value Display - Option to display predicted forecast values as well as actual forecast values
     - Visual measure not getting listed in forecast window - Closed period dropdown
+    - Forecast Toolbar -Insert forecast option to be added
 - **Scenario**
     - Scenario - Ability to support invert - Measure on rows layout
     - Scenario Enhancements
-- **Allocation**
-    - Allocation Refactor - Data Input
