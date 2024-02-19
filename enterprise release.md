@@ -1,0 +1,47 @@
+# Inforiver Enterprise 2.8 Release Notes
+
+- **Writeback**
+    - Use the number column from payload instead of taking from the inforiver database
+    - Use extended timeout for data input column fetch in writeback worker
+    - Ability to have a different column name for writeback table from the name in visual
+    - Rename writeback types to Long, Wide
+    - Prevent writeback when there are no dimension added to visual.
+- **Data Input**
+    - Datainput single select and multiselect: fetch options from semantic model
+    - Default value for text data input type
+    - Data Input - Single & Multi Select UI Enhancements
+- **Comment**
+    - Filtercontext for comments and Writeback
+- **Schedule**
+    - Export native charts in excel and PDF
+    - Ability to export hidden pages from a report in a scheduler
+- **Admin Console**
+    - Download application and container logs for on prem env from admin console
+    - Download writeback, subscription and all report logs in csv/excel from a worker
+    - Generate visual from admin console page for Co Sell - On Prem Users
+    - Upgrade turing app repo to use node 19
+    - Implement holiday calendar
+    - Implement co sell for inforiver on prem managed application
+- **Visual**
+    - Export PDF include comments (cell level) similar to notes
+    - Scenario-Close button is added to the scenario tool bar
+    - Forecast Toolbar -Insert forecast option to be added
+    - Data input to update the data based on source data refresh - To be handled in Export
+- **Forecast**
+    - Forecast Toolbar
+    - Distribution by Time Period in Column
+    - Handling dynamic time series extensions
+    - Forecast Audit - Open/Close Period / Reforecast
+    - Edit Forecast Measure
+    - Period Setup for configuring period values (initial and re-forecast)
+    - New Modal for Create Forecast
+    - Forecast Toolbar - Distribute Deficit option
+    - Insert Forecast window enhancements
+    - Auto close - closing period at tenant level
+    - Forecast_Value Display - Option to display predicted forecast values as well as actual forecast values
+    - Visual measure not getting listed in forecast window - Closed period dropdown
+- **Scenario**
+    - Scenario - Ability to support invert - Measure on rows layout
+    - Scenario Enhancements
+- **Allocation**
+    - Allocation Refactor - Data Input
