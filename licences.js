@@ -35,7 +35,7 @@ window.chartPlans = [
     label: "Unlimited Viewer and Developer",
   },
   {
-    value:"xviz.inforiver-charts.charts-passive-read-editor",
+    value: "xviz.inforiver-charts.charts-passive-read-editor",
     label: "Passive Read Editor",
   },
   {
@@ -66,6 +66,67 @@ window.chartPlans = [
     value: "xviz.inforiver-charts.charts-embedded",
     label: "Embedded Plan",
   },
+  {
+    value: "xviz.inforiver-charts.charts-waterfall",
+    label: "Waterfall family",
+  },
+  {
+    value: "xviz.inforiver-charts.charts-radar-polar",
+    label: "Radar polar family",
+  },
+  {
+    value: "xviz.inforiver-charts-marimekko",
+    label: "Marimekko family",
+  },
+  {
+    value: "xviz.inforiver-charts.charts-bubble-scatter",
+    label: "Bubble scatter family",
+  },
+  {
+    value: "xviz.inforiver-charts.charts-pie-donut",
+    label: "Pie donut family",
+  },
+  {
+    value: "xviz.inforiver-charts-treemap-sunburst",
+    label: "Tree map & sunburst family",
+  },
+  {
+    value: "xviz.inforiver-charts.charts-funnel",
+    label: "Funnel family",
+  },
+  {
+    value: "xviz.inforiver-charts.charts-combo",
+    label: "Combo family",
+  },
+  {
+    value: "xviz.inforiver-charts-bullet",
+    label: "Bullet family",
+  },
+
+  {
+    value: "xviz.inforiver-charts-column-bar",
+    label: "Column bar family",
+  },
+  {
+    value: "xviz.inforiver-charts-line",
+    label: "Line family",
+  },
+  {
+    value: "xviz.inforiver-charts-area",
+    label: "Area family",
+  },
+  {
+    value: "xviz.inforiver-charts-story-telling",
+    label: "Story telling family",
+  },
+  {
+    value: "xviz.inforiver-charts-table",
+    label: "Table",
+  },
+  {
+    value: "xviz.inforiver-charts-ibcs-standard",
+    label: "Ibcs standard",
+  },
 ];
 
 window.xvizPlans = [
@@ -77,7 +138,7 @@ window.xvizPlans = [
   {
     value: "xviz-unlimited-ganttchart-1",
     label: "xViz Gantt Large",
-  }
+  },
 ];
 
 window.projects = [
