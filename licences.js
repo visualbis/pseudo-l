@@ -108,12 +108,8 @@ window.chartPlans = [
     label: "Column bar family",
   },
   {
-    value: "xviz.inforiver-charts-line",
-    label: "Line family",
-  },
-  {
-    value: "xviz.inforiver-charts-area",
-    label: "Area family",
+    value: "xviz.inforiver-charts-line-area",
+    label: "Line area family",
   },
   {
     value: "xviz.inforiver-charts-story-telling",
@@ -122,6 +118,10 @@ window.chartPlans = [
   {
     value: "xviz.inforiver-charts-table",
     label: "Table",
+  },
+  {
+    value: "xviz.inforiver-charts-card",
+    label: "Card",
   },
   {
     value: "xviz.inforiver-charts-ibcs-standard",
