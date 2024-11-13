@@ -1,3 +1,22 @@
+window.valqPlans = [
+  {
+    value: "valq-premium.tier1-premium",
+    label: "ValQ Premium Small(5 to 24 users)",
+  },
+  {
+    value: "valq-premium.tier2-premium",
+    label: "ValQ Premium Medium(25 to 99 users)",
+  },
+  {
+    value: "valq-premium.tier3-premium",
+    label: "ValQ Premium Large(100 to 999 users)",
+  },
+  {
+    value: "valq-premium.premium-xxviewer",
+    label: "ValQ Premium Developer - Unlimited Viewers",
+  },
+];
+
 window.matrixPlans = [
   {
     value: "xviz.inforiver-premium.tier1-premium",
@@ -151,6 +170,10 @@ window.xvizPlans = [
 
 window.projects = [
   {
+    value: "valq",
+    label: "ValQ",
+  },
+  {
     value: "inforiverMatrix",
     label: "Inforiver Matrix",
   },
@@ -165,6 +188,7 @@ window.projects = [
 ];
 
 window.projectPlans = {
+  valq: window.valqPlans,
   inforiverMatrix: window.matrixPlans,
   inforiverCharts: window.chartPlans,
   xviz: window.xvizPlans,
