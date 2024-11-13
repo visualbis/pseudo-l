@@ -127,6 +127,14 @@ window.chartPlans = [
     value: "xviz.inforiver-charts-ibcs-standard",
     label: "Ibcs standard",
   },
+  {
+    value: "xviz.inforiver-charts-gauge",
+    label: "Gauge",
+  },
+  {
+    value: "xviz.inforiver-charts-box-plot",
+    label: "Box plot & histogram",
+  },
 ];
 
 window.xvizPlans = [
