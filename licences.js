@@ -135,6 +135,10 @@ window.chartPlans = [
     value: "xviz.inforiver-charts-box-plot",
     label: "Box plot & histogram",
   },
+  {
+    value: "xviz.inforiver-charts-gantt",
+    label: "Gantt",
+  },
 ];
 
 window.xvizPlans = [
